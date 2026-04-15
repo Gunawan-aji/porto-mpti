@@ -3,7 +3,7 @@
  * Database Connection Configuration
  */
 
-$host = '172.17.0.1';
+$host = '127.0.0.1:80';
 $user = 'gunawan471';
 $password = 'gunawan471';
 $database = 'kopi_kenangan';
